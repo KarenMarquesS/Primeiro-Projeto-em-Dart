@@ -1,4 +1,4 @@
-import 'package:novo_projeto/novo_projeto.dart';
+import 'package:novo_projeto/projetoCalculadora/novo_projeto.dart';
 import 'package:test/test.dart';
 
 void main() {
